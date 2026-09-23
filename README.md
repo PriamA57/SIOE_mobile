@@ -41,7 +41,7 @@ L'application SIOE Mobile, servira pour la société SIOE afin d'acceder à la b
 
 ## 2. Fonctionnalités
 
-<!-- Ce que l'utilisateur peut faire, écran par écran. Mettez à jour à chaque ajout. -->
+<!-- Ce que l'utilisateur peut faire, écran par écran. Mettez à jour à chaque ajout. -->+
 - **Écran d'accueil :** <ex. liste des concerts>
 - **Écran de détail :** <ex. informations d'un concert>
 - <fonctionnalité suivante…>
@@ -86,9 +86,12 @@ flutter run
 
 ## 6. Captures d'écran
 
-<!-- Une capture par écran, légendée. Rangez-les dans docs/img/. -->
-![Écran liste des concerts](docs/img/ecran-liste.png)
-![Écran de détail](docs/img/ecran-detail.png)
+<!-- Une capture par écran, légendée. Rangez-les dans docs/img/. --> 
+![img.png](docs/img/img.png)
+- Dans le fichier lib\main.dart, j'ai commencé par changé le titre en "SIOE Mobile".
+
+![img_1.png](docs/img/img_1.png)
+- Puis dans le même fichier, j'ai modifié le body, afin d'ajouter le texte "Bienvenue sur SIOE".
 
 ## 7. Suivi
 
@@ -103,4 +106,4 @@ flutter run
 
 ---
 
-*README tenu à jour par <Prénom NOM> — dernière mise à jour : <JJ/MM/AAAA>.*
+*README tenu à jour par Priam ANTOINE — dernière mise à jour : <23/09/2026>.*

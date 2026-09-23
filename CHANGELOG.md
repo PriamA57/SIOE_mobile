@@ -18,11 +18,10 @@ Règles :
 ### Ajouté
 - <en cours…>
 
-## [1.0.0] - 2026-09-16
+## [1.0.0] - 2026-09-23
 ### Ajouté
-- Écran d'accueil : liste des concerts affichée avec `ListView.builder`.
-- Carte de présentation d'un concert (titre en gras, artiste, date).
-- Navigation vers l'écran de détail avec passage du concert sélectionné.
+- Modification du titre
+- Modification du body
 
 <!--
 Exemples de versions suivantes (à adapter à VOTRE application) :
