@@ -2,7 +2,7 @@
 
 **Auteur :** Priam ANTOINE
 **Classe :** BTS SIO2 SLAM — Lycée Robert Schuman, Metz
-**Version courante :** <ex. 1.0.0>   **Date :** <JJ/MM/AAAA>
+**Version courante :** 1.0   **Date :** 23/09/2026
 **Suivi :** voir [CHANGELOG.md](CHANGELOG.md) (versions) et [ANOMALIES.md](ANOMALIES.md) (bugs)
 
 ---
