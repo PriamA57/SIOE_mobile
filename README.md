@@ -42,9 +42,8 @@ L'application SIOE Mobile, servira pour la société SIOE afin d'acceder à la b
 ## 2. Fonctionnalités
 
 <!-- Ce que l'utilisateur peut faire, écran par écran. Mettez à jour à chaque ajout. -->+
-- **Écran d'accueil :** <ex. liste des concerts>
-- **Écran de détail :** <ex. informations d'un concert>
-- <fonctionnalité suivante…>
+- **Écran d'accueil :** Listes des concerts
+- **Écran de détail :** informations d'un concert
 
 ## 3. Architecture technique
 
