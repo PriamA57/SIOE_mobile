@@ -37,7 +37,7 @@ Mode d'emploi :
 ## 1. Présentation
 
 <!-- À quoi sert l'application, pour qui, dans quel contexte (billetterie HellMetz) ? -->
-L'application SIOE Mobile, servira pour la société SIOE afin d'acceder à la billeterie, aux horraire et emplacement des différents concerts. 
+L'application SIOE Mobile, servira pour la société SIOE afin d'acceder à la billeterie, au forum, aux horraire et emplacement des différents concerts. 
 
 ## 2. Fonctionnalités
 
@@ -92,6 +92,15 @@ flutter run
 
 ![img_1.png](docs/img/img_1.png)
 - Puis dans le même fichier, j'ai modifié le body, afin d'ajouter le texte "Bienvenue sur SIOE".
+
+![img_4.png](docs/img/img_4.png)
+- J'ai initialiser la BDD des concerts
+
+![img_2.png](docs/img/img_2.png) ![img_3.png](docs/img/img_3.png)
+- J'ai ensuite initialiser les details de concert
+
+![img_5.png](docs/img/img_5.png)
+- J'ai ensuite fait en sorte que tous s'affiche sur la page d'accueil
 
 ## 7. Suivi
 

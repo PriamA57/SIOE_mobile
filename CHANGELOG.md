@@ -22,6 +22,7 @@ Règles :
 ### Ajouté
 - Modification du titre
 - Modification du body
+- Ajout de la liste de chaque concerts avec leurs detail
 
 <!--
 Exemples de versions suivantes (à adapter à VOTRE application) :
