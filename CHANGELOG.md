@@ -1,16 +1,3 @@
-<!--
-============================================================
-MODÈLE — Journal des versions (CHANGELOG)
-Format inspiré de « Keep a Changelog ». À placer à la racine du dépôt.
-Règles :
-  - La version la plus RÉCENTE est en HAUT.
-  - Chaque version : un numéro [MAJEUR.MINEUR.CORRECTIF] et une date AAAA-MM-JJ.
-  - Rubriques possibles : Ajouté, Modifié, Corrigé, Supprimé.
-  - Reliez les corrections aux anomalies (ex. « voir A-002 ») du fichier ANOMALIES.md.
-  - Ajoutez une nouvelle version à CHAQUE évolution ou lot de corrections.
-============================================================
--->
-
 # Journal des versions — HellMetz Mobile
 
 ## [Non publié]

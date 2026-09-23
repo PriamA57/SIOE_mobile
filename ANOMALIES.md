@@ -1,16 +1,3 @@
-<!--
-============================================================
-MODÈLE — Registre des anomalies (bugs)
-À placer à la racine du dépôt (ou dans docs/).
-Règles :
-  - Une ligne par anomalie, identifiant unique A-001, A-002, …
-  - On ne SUPPRIME pas une anomalie corrigée : on met son statut à jour.
-  - Statut : Ouverte -> En cours -> Corrigée (+ version de correction).
-  - Gravité : Bloquante / Majeure / Mineure.
-  - Reliez la correction à une version du CHANGELOG.md.
-============================================================
--->
-
 # Registre des anomalies — HellMetz Mobile
 
 ## Anomalies en cours
