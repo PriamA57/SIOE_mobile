@@ -37,6 +37,12 @@ class DetailConcertScreen extends StatelessWidget {
               concert.lieu,
               style: const TextStyle(fontStyle: FontStyle.italic, fontSize: 12, color: Colors.grey),
             ),
+            Image.asset(
+              concert.img,
+              height: 200,
+              width: double.infinity,
+              fit: BoxFit.cover,
+            )
           ],
         ),
       ),
